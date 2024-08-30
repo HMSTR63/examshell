@@ -27,7 +27,7 @@
 | --- | --- |
 | swap_cases| [swap_cases](./Subjects/Level3/swap_cases.subject.txt)     |
 | Print_odd | [print_odd](./Subjects/Level3/print_odd.subject.txt) |
-| Print_even| [aff_a](./Subjects/Level3/print_even.subject.txt)     |
+| Print_even| [print_even](./Subjects/Level3/print_even.subject.txt)     |
 
 ## Level 4
 | Names | Subject |
