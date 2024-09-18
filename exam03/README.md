@@ -4,13 +4,13 @@
             margin-right: auto;
             width: 90%">
 
-## Level 0 = 6 pts
+## Level 0
 | Names | Subject |
 | --- | --- |
 | aff_a    | [aff_a](./Subjects/Level0/aff_a.subject.txt)    |
 | ft_ft    | [ft_ft](./Subjects/Level0/ft_ft.subject.txt)    |
 
-## Level 1 = 6 pts
+## Level 1
 | Names | Subject |
 | --- | --- |
 | odd       | [odd](./Subjects/Level1/odd.subject.txt)    |
@@ -20,14 +20,14 @@
 | rev_print | [rev_print](./Subjects/Level1/rev_print.subject.txt)     |
 | write_string | [write_string](./Subjects/Level1/write_string.subject.txt)     |
 
-## Level 2 = 6 pts
+## Level 2
 | Names | Subject |
 | --- | --- |
 | ft_strcmp | [ft_strcmp](./Subjects/Level2/ft_strcmp.subject.txt)     |
 | ft_strrev | [ft_strrev](./Subjects/Level2/ft_strrev.subject.txt)     |
 | ft_strcpy | [ft_strcpy](./Subjects/Level2/ft_strcpy.subject.txt)     |
 
-## Level 3 = 6 pts
+## Level 3
 | Names | Subject |
 | --- | --- |
 | occ_a     | [occ_a](./Subjects/Level3/occ_a.subject.txt)     |
@@ -35,12 +35,12 @@
 | ft_strlen | [ft_strlen](./Subjects/Level3/ft_strlen.subject.txt) |
 | count_alen     | [count_alen](./Subjects/Level3/count_alen.subject.txt)     |
 
-## Level 4 = 6 pts
+## Level 4
 | Names | Subject |
 | --- | --- |
 | ft_atoi   | [ft_atoi](./Subjects/Level4/ft_atoi.subject.txt)   |
 
-## Level 5 = 6 pts
+## Level 5
 | Names | Subject |
 | --- | --- |
 | swap_cases| [swap_cases](./Subjects/Level5/swap_cases.subject.txt)     |
@@ -55,18 +55,18 @@
 | first_word  | [first_word](./Subjects/Level5/first_word.subject.txt)     |
 | alpha_mirror  | [alpha_mirror](./Subjects/Level5/alpha_mirror.subject.txt)     |
 
-## Level 6 = 6 pts
+## Level 6
 | Names | Subject |
 | --- | --- |
 | ft_putnbr| [ft_putnbr](./Subjects/Level6/ft_putnbr.subject.txt)     |
 
-## Level 7 = 6 pts
+## Level 7
 | Names | Subject |
 | --- | --- |
 | aff_last_param   | [aff_last_param](./Subjects/Level7/aff_last_param.subject.txt)   |
 | aff_first_param   | [aff_first_param](./Subjects/Level7/aff_first_param.subject.txt)   |
 
-## Level 8 = 6 pts
+## Level 8
 | Names | Subject |
 | --- | --- |
 | last_word   | [last_word](./Subjects/Level8/last_word.subject.txt)   |
@@ -77,41 +77,41 @@
 | title   | [title](./Subjects/Level8/title.subject.txt)   |
 | search_and_replace   | [search_and_replace](./Subjects/Level8/search_and_replace.subject.txt)   |
 
-## Level 9 = 6 pts
+## Level 9
 | Names | Subject |
 | --- | --- |
 | count_words   | [count_words](./Subjects/Level9/count_words.subject.txt)   |
 
-## Level 10 = 6 pts
+## Level 10
 | Names | Subject |
 | --- | --- |
 | ft_rrange   | [ft_rrange](./Subjects/Level10/ft_rrange.subject.txt)   |
 | ft_range   | [ft_range](./Subjects/Level10/ft_range.subject.txt)   |
 | ft_itoa   | [ft_itoa](./Subjects/Level10/ft_itoa.subject.txt)   |
 
-## Level 11 = 6 pts
+## Level 11
 | Names | Subject |
 | --- | --- |
 | ft_split   | [ft_split](./Subjects/Level11/ft_split.subject.txt)   |
 
-## Level 12 = 6 pts
+## Level 12
 | Names | Subject |
 | --- | --- |
 | sort_list   | [sort_list](./Subjects/Level12/sort_list.subject.txt)   |
 | ft_list_remove_if   | [ft_list_remove_if](./Subjects/Level12/ft_list_remove_if.subject.txt)   |
 
-## Level 13 = 6 pts
+## Level 13
 | Names | Subject |
 | --- | --- |
 | count_alpha   | [count_alpha](./Subjects/Level13/count_alpha.subject.txt)   |
 
-## Level 14 = 6 pts
+## Level 14
 | Names | Subject |
 | --- | --- |
 | ord_alphlong   | [ord_alphlong](./Subjects/Level14/ord_alphlong.subject.txt)   |
 | str_maxlenoc   | [str_maxlenoc](./Subjects/Level14/str_maxlenoc.subject.txt)   |
 
-## Level 15 = 10 pts
+## Level 15
 | Names | Subject |
 | --- | --- |
 | count_island   | [count_island](./Subjects/Level15/count_island.subject.txt)   |
