@@ -55,18 +55,18 @@
 | first_word  | [first_word](./Subjects/Level5/first_word.subject.txt)     |
 | alpha_mirror  | [alpha_mirror](./Subjects/Level5/alpha_mirror.subject.txt)     |
 
-## Level 6
+## Level 6 = 6 pts
 | Names | Subject |
 | --- | --- |
 | ft_putnbr| [ft_putnbr](./Subjects/Level6/ft_putnbr.subject.txt)     |
 
-## Level 7
+## Level 7 = 6 pts
 | Names | Subject |
 | --- | --- |
 | aff_last_param   | [aff_last_param](./Subjects/Level7/aff_last_param.subject.txt)   |
 | aff_first_param   | [aff_first_param](./Subjects/Level7/aff_first_param.subject.txt)   |
 
-## Level 8
+## Level 8 = 6 pts
 | Names | Subject |
 | --- | --- |
 | last_word   | [last_word](./Subjects/Level8/last_word.subject.txt)   |
@@ -77,41 +77,41 @@
 | title   | [title](./Subjects/Level8/title.subject.txt)   |
 | search_and_replace   | [search_and_replace](./Subjects/Level8/search_and_replace.subject.txt)   |
 
-## Level 9
+## Level 9 = 6 pts
 | Names | Subject |
 | --- | --- |
 | count_words   | [count_words](./Subjects/Level9/count_words.subject.txt)   |
 
-## Level 10
+## Level 10 = 6 pts
 | Names | Subject |
 | --- | --- |
 | ft_rrange   | [ft_rrange](./Subjects/Level10/ft_rrange.subject.txt)   |
 | ft_range   | [ft_range](./Subjects/Level10/ft_range.subject.txt)   |
 | ft_itoa   | [ft_itoa](./Subjects/Level10/ft_itoa.subject.txt)   |
 
-## Level 11
+## Level 11 = 6 pts
 | Names | Subject |
 | --- | --- |
 | ft_split   | [ft_split](./Subjects/Level11/ft_split.subject.txt)   |
 
-## Level 12
+## Level 12 = 6 pts
 | Names | Subject |
 | --- | --- |
 | sort_list   | [sort_list](./Subjects/Level12/sort_list.subject.txt)   |
 | ft_list_remove_if   | [ft_list_remove_if](./Subjects/Level12/ft_list_remove_if.subject.txt)   |
 
-## Level 13
+## Level 13 = 6 pts
 | Names | Subject |
 | --- | --- |
 | count_alpha   | [count_alpha](./Subjects/Level13/count_alpha.subject.txt)   |
 
-## Level 14
+## Level 14 = 6 pts
 | Names | Subject |
 | --- | --- |
 | ord_alphlong   | [ord_alphlong](./Subjects/Level14/ord_alphlong.subject.txt)   |
 | str_maxlenoc   | [str_maxlenoc](./Subjects/Level14/str_maxlenoc.subject.txt)   |
 
-## Level 15
+## Level 15 = 10 pts
 | Names | Subject |
 | --- | --- |
 | count_island   | [count_island](./Subjects/Level15/count_island.subject.txt)   |
