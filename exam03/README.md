@@ -4,13 +4,13 @@
             margin-right: auto;
             width: 90%">
 
-## Level 0
+## Level 0 = 6 pts
 | Names | Subject |
 | --- | --- |
 | aff_a    | [aff_a](./Subjects/Level0/aff_a.subject.txt)    |
 | ft_ft    | [ft_ft](./Subjects/Level0/ft_ft.subject.txt)    |
 
-## Level 1
+## Level 1 = 6 pts
 | Names | Subject |
 | --- | --- |
 | odd       | [odd](./Subjects/Level1/odd.subject.txt)    |
@@ -20,14 +20,14 @@
 | rev_print | [rev_print](./Subjects/Level1/rev_print.subject.txt)     |
 | write_string | [write_string](./Subjects/Level1/write_string.subject.txt)     |
 
-## Level 2
+## Level 2 = 6 pts
 | Names | Subject |
 | --- | --- |
 | ft_strcmp | [ft_strcmp](./Subjects/Level2/ft_strcmp.subject.txt)     |
 | ft_strrev | [ft_strrev](./Subjects/Level2/ft_strrev.subject.txt)     |
 | ft_strcpy | [ft_strcpy](./Subjects/Level2/ft_strcpy.subject.txt)     |
 
-## Level 3
+## Level 3 = 6 pts
 | Names | Subject |
 | --- | --- |
 | occ_a     | [occ_a](./Subjects/Level3/occ_a.subject.txt)     |
@@ -35,12 +35,12 @@
 | ft_strlen | [ft_strlen](./Subjects/Level3/ft_strlen.subject.txt) |
 | count_alen     | [count_alen](./Subjects/Level3/count_alen.subject.txt)     |
 
-## Level 4
+## Level 4 = 6 pts
 | Names | Subject |
 | --- | --- |
 | ft_atoi   | [ft_atoi](./Subjects/Level4/ft_atoi.subject.txt)   |
 
-## Level 5
+## Level 5 = 6 pts
 | Names | Subject |
 | --- | --- |
 | swap_cases| [swap_cases](./Subjects/Level5/swap_cases.subject.txt)     |
